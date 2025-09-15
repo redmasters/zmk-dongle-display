@@ -11,6 +11,6 @@ manifest:
       import: app/west.yml
     - name: zmk-config-dongle
       remote: redmasters
-      revision: feature/main-config
+      revision: main
   self:
     path: config
